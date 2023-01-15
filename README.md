@@ -17,3 +17,5 @@ The system is built around the Espressif 32 (ESP-32/ESP-Cam) microcontrollers, w
 The ESP-Cam (camera-enabled ESP-32) is mounted at the Level 1 lift lobby, where it streams a video of the lift's LCD display showing the current floor.
 Optical character recognition is implemented using pytesseract in Python to identify the current floor
 Python is also used to automatically identify the offending floors, control the telegram bot, and activate the "annoyance devices".
+
+![This is an image](readme_image.png) 
